@@ -54,14 +54,14 @@ nav .container{
     margin-right: auto;
 }
 
-.first-square-second-section{
+.bigger-square{
     width: 300px;
     height: 50%;
     background-color: #3dc6f4;
     
 }
 
-.second-square-second-section{
+.smaller-square{
     width: 200px;
     height: 50%;
     background-color: pink;
