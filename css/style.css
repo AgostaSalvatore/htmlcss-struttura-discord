@@ -50,10 +50,21 @@ nav .container{
     background-color: purple;
     width: 500px;
     height: 50%;
-    border: 2px dashed black;
-
     margin-left: auto;
     margin-right: auto;
+}
+
+.first-square-second-section{
+    width: 300px;
+    height: 50%;
+    background-color: #3dc6f4;
+    
+}
+
+.second-square-second-section{
+    width: 200px;
+    height: 50%;
+    background-color: pink;
 }
 
 /* utility */
@@ -74,4 +85,8 @@ nav .container{
     justify-content: center;
     align-items: center;
     height: 400px;
+}
+
+.border{
+    border: 2px dashed black;
 }
