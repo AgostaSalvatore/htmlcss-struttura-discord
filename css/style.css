@@ -104,6 +104,10 @@ nav .container{
     background-color: #23272a;
 }
 
+.bg-aquamarine{
+    background-color: aquamarine;
+}
+
 .center{
     display: flex;
     justify-content: center;
@@ -113,4 +117,27 @@ nav .container{
 
 .border{
     border: 1.5px dashed black;
+}
+
+footer{
+    padding-top: 10px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid white;
+}
+
+.footer-dim{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 90%;
+    width: 60%;
+}
+
+.button{
+    background-color: rosybrown;
+    border: 2px dashed black;
+    padding: 3px;
 }
