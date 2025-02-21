@@ -67,6 +67,26 @@ nav .container{
     background-color: pink;
 }
 
+.biggest-square{
+    width: 500px;
+    height: 80%;
+    background-color: green;
+}
+
+.rectangle{
+    height: 300px;
+    width: 20%;
+    border: 2px dashed black;
+    background-color: pink;
+}
+
+.rectangle2{
+    height: 300px;
+    width: 10%;
+    border: 2px dashed white;
+    background-color: #3dc6f4;
+}
+
 /* utility */
 .bg-gray {
     background-color: #d3d3d3;
@@ -80,6 +100,10 @@ nav .container{
     background-color: blue;
 }
 
+.bg-black{
+    background-color: #23272a;
+}
+
 .center{
     display: flex;
     justify-content: center;
@@ -88,5 +112,5 @@ nav .container{
 }
 
 .border{
-    border: 2px dashed black;
+    border: 1.5px dashed black;
 }
