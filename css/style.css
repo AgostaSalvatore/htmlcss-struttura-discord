@@ -29,7 +29,7 @@ nav .container{
 }
 
 .logo{
-    width: 100px;
+    width: 10%;
 }
 
 .links{
@@ -44,7 +44,7 @@ nav .container{
 }
 
 .login{
-    width: 100px;
+    width: 10%;
     text-align: right;
 }
 
